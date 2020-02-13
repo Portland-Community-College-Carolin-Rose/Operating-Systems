@@ -1,0 +1,1 @@
+Device Manager is a Windows OS feature. It keeps track of all devices. Windows 2000 and newer contains an improved device manager that detects plug-and-play hardwareand displays a large list of supported hardware
