@@ -1,1 +1,2 @@
 Device Manager is a Windows OS feature. It keeps track of all devices. Windows 2000 and newer contains an improved device manager that detects plug-and-play hardwareand displays a large list of supported hardware
+File Manager is a system software responsible for the creation, deletion, modification of the files and managing their access, security and the resources used by them. File Manager keeps track of each file through directories. It has a set of predetermined policies that decides where and how the files will be stored and how the user gets access to them.
